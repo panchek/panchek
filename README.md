@@ -1,7 +1,7 @@
-## Hi, <img src="gif/wave.gif" width=22>
-## I'm Egor Pankov
-- ### And I'm from Ukraine :ukraine: :pray:
-- ### And I'm Data Scientist :metal:
+<h2>Hi, <img src="gif/wave.gif" width=22></h2>
+<h2>I'm Egor Pankov</h2>
+     - And I'm from Ukraine :ukraine: :pray:
+     - And I'm Data Scientist :metal:
 
 ### My stack:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
