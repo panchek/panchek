@@ -9,5 +9,13 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&logoColor=green)
 
+<p align="center">
+     <i>Let's connect and chat! You are able to finde me on the ...</i>
+</p>
+
+![gmail](https://img.shields.io/badge/alex.pankov.new@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![linkedin](https://img.shields.io/badge/egorpankov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
